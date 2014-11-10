@@ -1,7 +1,7 @@
 package net.articcraft.thefightnight;
 
 /*
- * File: Main.java
+ * File: TheFightNight.java
  * CopyRight (C) Articcraft.net 2014 All rights reserved.
  * Do not duplicate, publish, modify or otherwise distribute.
  */
