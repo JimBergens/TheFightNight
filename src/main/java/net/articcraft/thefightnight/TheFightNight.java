@@ -2,7 +2,7 @@ package net.articcraft.thefightnight;
 
 /*
  * File: TheFightNight.java
- * CopyRight (C) Articcraft.net 2014 All rights reserved.
+ * Copyright (C) Articcraft.net 2014 All rights reserved.
  * Do not duplicate, publish, modify or otherwise distribute.
  */
 import org.bukkit.Bukkit;
