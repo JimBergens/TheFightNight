@@ -1,7 +1,7 @@
 TheFightNight
 =============
 
-*Written by Jim Bergens and Matt*
+*Written by Jim Bergens and Matt for Articcraft*
 
 **Dependency's**
 
