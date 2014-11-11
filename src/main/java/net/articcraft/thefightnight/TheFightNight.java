@@ -21,8 +21,8 @@ public class TheFightNight extends JavaPlugin {
     public void onEnable() {
         instance = this;
         
-        this.getServer().getPluginManager().registerEvents(new SignClass, this);
-        this.getServer().getPluginManager().registerEvents(new JoinListener, this);
+        this.getServer().getPluginManager().registerEvents(new SignClass(), this);
+        this.getServer().getPluginManager().registerEvents(new JoinListener(), this);
     }
 
     @Override
